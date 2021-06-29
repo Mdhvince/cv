@@ -46,8 +46,9 @@ Computer Vision engineer | France
 
 
 ##### Certifications
-&emsp; `2021` &emsp; &emsp; Accelerated computing Cuda C/C++ with Multiple GPus - ***Nvidia Deep Learning Institute***  
-&emsp; `2021` &emsp; &emsp; Fundamentals of Accelerated computing Cuda C/C++ - ***Nvidia Deep Learning Institute***  
+&emsp; `2021` &emsp; &emsp; Accelerating CUDA C++ Applications with concurrent streams - ***Nvidia Deep Learning Institute***  
+&emsp; `2021` &emsp; &emsp; Accelerated computing CUDA C/C++ with Multiple GPus - ***Nvidia Deep Learning Institute***  
+&emsp; `2021` &emsp; &emsp; Fundamentals of Accelerated computing CUDA C/C++ - ***Nvidia Deep Learning Institute***  
 &emsp; `2021` &emsp; &emsp; Aerial Robotic (UAV) - ***Coursera - Penn Engineering***  
 &emsp; `2019` &emsp; &emsp; Computer Vision NanoDegree - ***Udacity***  
 &emsp; `2018` &emsp; &emsp; Data Science NanoDegree - ***Udacity***  
