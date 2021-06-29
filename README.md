@@ -5,7 +5,7 @@ Computer Vision engineer | France
 [vinceslas.medhy@gmail.com](mailto:vinceslas.medhy@gmail.com)
 
 ##### Experiences
-&emsp; `10/2019 - Present` &emsp; **Computer Vision engineer** at Faurecia &emsp; &emsp; *Paris 13 CDI*
+&emsp; `10/2019 - Present` &emsp; **Data Scientist (Computer Vision)** at Faurecia &emsp; &emsp; *Paris 13 CDI*
 
 &emsp; ___AI Visual Inspection Team___  
 * Real time Micro defects detection on aluminum plate *(Defect size < 0.02% of the surface)*  
@@ -38,9 +38,6 @@ Computer Vision engineer | France
 &emsp; __Computer Vision__  
 &emsp; `Convolutional neural networks` `GANs` `Auto-encoders` `OpenCV` `Scikit-image` `Kornia` `Numpy`
 
-&emsp; __Reinforcement Learning__  
-&emsp; `MDPs` `Temporal Difference Learning` `Value-based Methods (Deep Q Network)`
-
 &emsp; __Software Engineering__  
 &emsp; `Git` `Linting` `Unit tests` `Code review` `Code Refactoring`
 
@@ -51,6 +48,7 @@ Computer Vision engineer | France
 ##### Certifications
 &emsp; `2021` &emsp; &emsp; Accelerated computing Cuda C/C++ with Multiple GPus - ***Nvidia Deep Learning Institute***  
 &emsp; `2021` &emsp; &emsp; Fundamentals of Accelerated computing Cuda C/C++ - ***Nvidia Deep Learning Institute***  
+&emsp; `2021` &emsp; &emsp; Aerial Robotic (UAV) - ***Coursera - Penn Engineering***  
 &emsp; `2019` &emsp; &emsp; Computer Vision NanoDegree - ***Udacity***  
 &emsp; `2018` &emsp; &emsp; Data Science NanoDegree - ***Udacity***  
 
