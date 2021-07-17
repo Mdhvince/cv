@@ -13,11 +13,11 @@ Computer Vision engineer | France
 * Deploy machine learning algorithms on premises   
   
 &emsp; ___Efficiency and Time AI Team___  
-Develop and train convolutional neural networks for :
-* human body Re-Identification 
-* skeleton detection *in uncontrolled environment*
-* Pose estimation *on videos*
-* Cycle time detection *on videos*
+* Develop and train convolutional neural networks for :
+  * human body Re-Identification 
+  * skeleton detection *in uncontrolled environment*
+  * Pose estimation *on videos*
+  * Cycle time detection *on videos*
 
 
 &emsp; `05/2019 - 10/2019` &emsp; **Computer Vision engineer** at Fitness Of Tomorrow &emsp; &emsp; *Orleans CDD*
