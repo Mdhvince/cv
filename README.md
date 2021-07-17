@@ -14,16 +14,17 @@ Computer Vision engineer | France
   
 &emsp; ___Efficiency and Time AI Team___  
 * Develop and train convolutional neural networks for :
-  * human body Re-Identification 
-  * skeleton detection *in uncontrolled environment*
+  * Human body Re-Identification 
+  * Skeleton detection *in uncontrolled environment*
   * Pose estimation *on videos*
   * Cycle time detection *on videos*
 
 
 &emsp; `05/2019 - 10/2019` &emsp; **Computer Vision engineer** at Fitness Of Tomorrow &emsp; &emsp; *Orleans CDD*
-
-* Skeleton detection for human body analysis
-* Pose estimation and Action Recognition *on videos*
+* Develop and train convolutional neural networks for:
+  * Human body analysis using skeleton detection
+  * Pose estimation 
+  * Action Recognition
 
 
 &emsp; `11/2015 - 11/2018` &emsp; **Data Scientist** at CDC Habitat &emsp; &emsp; *Paris 13 Work-Study Contract*
@@ -31,7 +32,7 @@ Computer Vision engineer | France
 
 ##### Skills
 &emsp; __Programming languages__  
-&emsp; `Python 3` `C++ 11 and above` `CUDA C++`  
+&emsp; `Modern C++` `CUDA C/C++` `Python 3`  
 
 &emsp; __Deep Learning Framework__  
 &emsp; `PyTorch`  
