@@ -8,15 +8,16 @@ Computer Vision engineer | France
 &emsp; `10/2019 - Present` &emsp; **Data Scientist (Computer Vision)** at Faurecia &emsp; &emsp; *Paris 13 CDI*
 
 &emsp; ___AI Visual Inspection Team___  
-* Train algorithms for micro defects detection in industrial environment  
-    Solution deployed for a plant in Austria and won the *Best Practice in Computer Vision* Award at DRD 2020
-* Anomaly Detection on door panels using Deep Auto-Encoder & other image preprocessing technics
-* Components detection on cockpit using regular Deep Learning algorithms for object detection  
+* Train convolutional neural networks and develop inference code for micro defects detection in industrial environment  
+* Train deep auto-encoder and implement classical image preprocessing technics for anomaly detection  
+* Deploy machine learning algorithms on premises   
   
 &emsp; ___Efficiency and Time AI Team___  
-* Real-time Human body Re-Identification & Skeleton detection *in uncontrolled environment*
-* Real-time Pose estimation *on videos*
-* Real-time Cycle time detection *on videos*
+Develop and train convolutional neural networks for :
+* human body Re-Identification 
+* skeleton detection *in uncontrolled environment*
+* Pose estimation *on videos*
+* Cycle time detection *on videos*
 
 
 &emsp; `05/2019 - 10/2019` &emsp; **Computer Vision engineer** at Fitness Of Tomorrow &emsp; &emsp; *Orleans CDD*
