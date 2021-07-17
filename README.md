@@ -8,7 +8,7 @@ Computer Vision engineer | France
 &emsp; `10/2019 - Present` &emsp; **Data Scientist (Computer Vision)** at Faurecia &emsp; &emsp; *Paris 13 CDI*
 
 &emsp; ___AI Visual Inspection Team___  
-* Real time Micro defects detection on aluminum plate *(Defect size < 0.02% of the surface)*  
+* Train algorithms for micro defects detection in industrial environment  
     Solution deployed for a plant in Austria and won the *Best Practice in Computer Vision* Award at DRD 2020
 * Anomaly Detection on door panels using Deep Auto-Encoder & other image preprocessing technics
 * Components detection on cockpit using regular Deep Learning algorithms for object detection  
